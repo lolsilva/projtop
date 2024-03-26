@@ -1,0 +1,11 @@
+main{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    background-color: rgb(235, 177, 204);
+    color: rgb(243, 32, 120);
+    text-align: center;
+    padding-top: 40px;
+    box-sizing: border-box;
+}
